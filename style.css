@@ -1,0 +1,25 @@
+*{
+    margin:0;
+
+}
+
+body{
+    background-color:#333;
+    font-family: 'Space Mono', monospace;
+    color:white;
+   
+}
+
+button{
+    display:block;
+    width:150px;
+    height:50px;
+    font-size:30px;
+    margin:20px auto;
+}
+
+.text{
+    text-align:center;
+    font-size:25px
+}
+
